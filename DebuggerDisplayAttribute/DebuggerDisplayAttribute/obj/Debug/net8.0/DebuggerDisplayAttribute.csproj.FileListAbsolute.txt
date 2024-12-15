@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\bin\Debug\net8.0\DebuggerDisplayAttribute.exe
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\bin\Debug\net8.0\DebuggerDisplayAttribute.deps.json
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\bin\Debug\net8.0\DebuggerDisplayAttribute.runtimeconfig.json
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\bin\Debug\net8.0\DebuggerDisplayAttribute.dll
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\bin\Debug\net8.0\DebuggerDisplayAttribute.pdb
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.sourcelink.json
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.dll
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\refint\DebuggerDisplayAttribute.dll
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.pdb
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\DebuggerDisplayAttribute.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DebuggerDisplayAttribute\DebuggerDisplayAttribute\DebuggerDisplayAttribute\obj\Debug\net8.0\ref\DebuggerDisplayAttribute.dll
